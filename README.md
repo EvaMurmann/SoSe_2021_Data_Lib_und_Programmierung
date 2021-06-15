@@ -1,4 +1,7 @@
 # SoSe 2021 - Data Lib und Programmierung
 Eva Murmann
 
-- Beinhaltet weitere Notebooks und Scripte
+Beinhaltet: 
+- Jupyter_Notebooks
+- Python_Scripts
+- Shell_Scripts
